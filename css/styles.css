@@ -703,6 +703,17 @@ td {
   margin-bottom: 2rem;
 }
 
+.desarrollo_web {
+  color: #936db9;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.desarrollo_web:hover,
+.desarrollo_web:focus {
+  color: white;
+}
+
 .ser-pa {
   color: grey;
   padding-bottom: 20px;
@@ -1102,6 +1113,7 @@ i.icon-bg-light {
     border-bottom: 1px solid white;
     padding-left: 1rem;
   }
+
   .sm-navu {
     padding-left: 1rem;
   }
